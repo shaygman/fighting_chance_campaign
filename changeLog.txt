@@ -1,0 +1,5 @@
+TODO:
+- Vehicle respawn script:
+ we are loosing resources messege
+ minus resources
+ 
